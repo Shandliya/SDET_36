@@ -12,6 +12,9 @@ public class TestNgExample {
 	@Test
 	public void practice2Test()
 	{
+
+		Reporter.log("Tjkjlkjyss-->test2",true);
+
 		Reporter.log("Tyss-->test3",true);
 		System.out.println("hiiiii");
 		System.out.println("heyyy");
@@ -19,6 +22,7 @@ public class TestNgExample {
 		System.out.println("hii RUPESH");
 		
 		
+
 	}
 	
 
