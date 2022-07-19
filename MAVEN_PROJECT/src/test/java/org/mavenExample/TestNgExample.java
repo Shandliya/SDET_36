@@ -9,12 +9,12 @@ public class TestNgExample {
 	{
 	Reporter.log("Tyss--> test",true);	
 	}
-	//hi
 	@Test
 	public void practice2Test()
 	{
 		Reporter.log("Tyss-->test3",true);
 		System.out.println("hiiiii");
+		System.out.println("heyyy");
 		
 	}
 	
