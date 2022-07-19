@@ -9,6 +9,7 @@ public class TestNgExample {
 	{
 	Reporter.log("Tyss--> test",true);	
 	}
+	//hi
 	@Test
 	public void practice2Test()
 	{
