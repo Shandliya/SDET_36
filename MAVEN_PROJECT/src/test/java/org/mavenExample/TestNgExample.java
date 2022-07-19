@@ -12,7 +12,7 @@ public class TestNgExample {
 	@Test
 	public void practice2Test()
 	{
-		Reporter.log("Tyss-->test2",true);
+		Reporter.log("Tyss-->test3",true);
 	}
 	
 
