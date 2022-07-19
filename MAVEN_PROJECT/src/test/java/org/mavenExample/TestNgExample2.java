@@ -22,6 +22,7 @@ public class TestNgExample2 {
 		System.out.println(pwd);
 		String hii = System.getProperty("hii");
 		System.out.println(hii);
+		System.out.println("HII RUPESH");
 		
 	}
 	
