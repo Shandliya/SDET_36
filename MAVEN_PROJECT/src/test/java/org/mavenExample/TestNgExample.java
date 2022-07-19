@@ -7,7 +7,7 @@ public class TestNgExample {
 	@Test
 	public void practice1Test()
 	{
-	Reporter.log("Tyss--> test1",true);	
+	Reporter.log("Tyss--> test",true);	
 	}
 	@Test
 	public void practice2Test()
