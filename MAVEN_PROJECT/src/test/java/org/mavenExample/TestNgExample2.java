@@ -19,7 +19,7 @@ public class TestNgExample2 {
 		System.out.println("url");
 		String pwd = System.getProperty("PASSWORD");
 		System.out.println("pwd");
-		String hii = System.getProperty("hii Anuprita");
+		String hii = System.getProperty("hello Anuprita");
 		System.out.println("good evening Anu");
 		String hiii = System.getProperty("hii");
 		System.out.println("good evening");
