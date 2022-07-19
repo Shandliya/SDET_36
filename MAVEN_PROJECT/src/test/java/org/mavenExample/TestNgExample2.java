@@ -19,12 +19,11 @@ public class TestNgExample2 {
 		System.out.println("url");
 		String pwd = System.getProperty("PASSWORD");
 		System.out.println("pwd");
+		String hii = System.getProperty("hii Anuprita");
+		System.out.println("good evening Anu");
 		String hii = System.getProperty("hii");
 		System.out.println("good evening");
 		System.out.println("good afternoon");
-		System.out.println("good morning");
-		System.out.println("byee byee");
-		//hi
 		
 	}
 	
