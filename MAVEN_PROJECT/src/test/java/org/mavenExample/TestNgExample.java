@@ -14,6 +14,8 @@ public class TestNgExample {
 	public void practice2Test()
 	{
 		Reporter.log("Tyss-->test3",true);
+		System.out.println("hiiiii");
+		
 	}
 	
 
