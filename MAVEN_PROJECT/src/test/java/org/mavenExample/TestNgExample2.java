@@ -24,7 +24,7 @@ public class TestNgExample2 {
 		System.out.println("good afternoon");
 		System.out.println("good morning");
 		System.out.println("byee byee");
-		//hii
+		//hi
 		
 	}
 	
