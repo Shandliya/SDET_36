@@ -16,7 +16,7 @@ public class TestNgExample2 {
 	{
 		Reporter.log("Tyss-->test4",true);
 		String url = System.getProperty("URL");
-		System.out.println(url);
+		System.out.println("url");
 		
 		String pwd = System.getProperty("PASSWORD");
 		System.out.println("pwd");
