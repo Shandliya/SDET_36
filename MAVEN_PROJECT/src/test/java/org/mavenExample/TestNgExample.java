@@ -14,8 +14,11 @@ public class TestNgExample {
 	{
 		Reporter.log("Tyss-->test3",true);
 		System.out.println("hiiiii");
-		System.out.println("heyyy");
+		System.out.println("heyyy Hello");
 		System.out.println("hii anu");
+		System.out.println("hii RUPESH");
+		
+		//hello good evening
 		
 		
 	}

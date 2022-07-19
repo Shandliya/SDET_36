@@ -16,14 +16,16 @@ public class TestNgExample2 {
 	{
 		Reporter.log("Tyss-->test4",true);
 		String url = System.getProperty("URL");
-		System.out.println(url);
-		
+		System.out.println("url");
 		String pwd = System.getProperty("PASSWORD");
-		System.out.println(pwd);
+		System.out.println("pwd");
 		String hii = System.getProperty("hii");
 		System.out.println("good evening");
+		System.out.println("good afternoon");
 		System.out.println("good morning");
 		System.out.println("good night");
+		System.out.println("byee byee");
+
 		
 	}
 	
