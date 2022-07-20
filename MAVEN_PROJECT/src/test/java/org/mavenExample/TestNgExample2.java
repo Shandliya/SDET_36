@@ -15,9 +15,9 @@ public class TestNgExample2 {
 	public void practice4Test()
 	{
 		Reporter.log("Tyss-->test4",true);
-		String url = System.getProperty("URL");
+		String url = System.getProperty("url");
 		System.out.println("url");
-		String pwd = System.getProperty("PASSWORD");
+		String browser = System.getProperty("browser");
 		System.out.println("pwd");
 		String hii = System.getProperty("hello Anuprita");
 		System.out.println("good evening Anu");
@@ -28,6 +28,7 @@ public class TestNgExample2 {
 		System.out.println("good night");
 		System.out.println("byee byee");
 		System.out.println("HAPPY BIRTHDAY");
+		System.out.println("KIARA ADVANI");
 
 		//shandilya rupesh
 		// ritesh
