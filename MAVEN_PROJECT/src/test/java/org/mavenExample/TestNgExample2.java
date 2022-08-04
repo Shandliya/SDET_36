@@ -14,10 +14,7 @@ public class TestNgExample2 {
 	
 	public void practice4Test()
 	{
-		Reporter.log("Tyss-->test4",true);
-		String url = System.getProperty("url");
-		System.out.println("url");
-		String browser = System.getProperty("browser");
+		//
 		System.out.println("pwd");
 		String hii = System.getProperty("hello Anuprita");
 		System.out.println("good evening Anu");
